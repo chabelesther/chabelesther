@@ -49,8 +49,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chabelesther&show_icons=true&theme=radical" alt="Statistiques GitHub" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chabelesther&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=chabelesther&theme=radical" alt="GitHub Streak" />
+
 </p>
+> 🔒 La plupart de mes projets sont privés (startups et clients).  
+> Voici quelques technologies utilisées : Next.js, NestJS, React Native, Drizzle ORM, NeonDB.  
+> Contacte-moi via [chester-dev.com](https://chester-dev.com/) pour un aperçu ou une démo privée.
 
 ---
 
