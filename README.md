@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chabelesther&show_icons=true&theme=radical&hide_rank=true" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=chabelesther&theme=radical" alt="GitHub Streak" />
-  https://streak-stats.demolab.com/?user=chabelesther&theme=radical
+ 
 </p>
 
 - 🔒 La plupart de mes projets sont privés (startups et clients).  
