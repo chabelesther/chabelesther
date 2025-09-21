@@ -21,9 +21,7 @@
 ---
 
 ## 🛠️ Tech Stack & Outils  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nestjs,nodejs,tailwind,firebase,postgres,git,github,figma,vscode" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,reactnative,expo,nestjs,nodejs,express,drizzle,postgres,mongodb,prisma,tailwind,materialui,shadcn,firebase,supabase,vercel,docker,git,github,figma,vscode,postman,linux,nginx,graphql,redis,aws,azure" /> </p>
 
 - **Frontend :** React, Next.js, Tailwind CSS, ShadCN UI  
 - **Mobile :** React Native (Expo)  
