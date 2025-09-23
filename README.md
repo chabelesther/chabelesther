@@ -21,7 +21,7 @@
 ---
 
 ## 🛠️ Tech Stack & Outils  
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,reactnative,expo,nestjs,nodejs,express,drizzle,postgres,mongodb,prisma,tailwind,materialui,shadcn,firebase,supabase,vercel,docker,git,github,figma,vscode,postman,linux,nginx,graphql,redis,aws,azure" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nestjs,nodejs,express,drizzle,postgres,mongodb,prisma,tailwind,materialui,shadcn,firebase,supabase,vercel,docker,git,github,figma,vscode,postman,linux,nginx,graphql,redis,aws,azure" /> </p>
 
 - **Frontend :** React, Next.js, Tailwind CSS, ShadCN UI  
 - **Mobile :** React Native (Expo)  
@@ -44,16 +44,19 @@
 ## 📈 Statistiques GitHub  
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chabelesther&show_icons=true&theme=radical&hide_rank=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=chabelesther&show_icons=true&theme=radical&hide_rank=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chabelesther&show_icons=true&locale=en&layout=compact" alt="chabelesther" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=chabelesther&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=chabelesther&theme=radical" alt="GitHub Streak" />
+  
  
+  <br/> 
 </p>
-
+<p align="center">
 - 🔒 La plupart de mes projets sont privés (startups et clients).  
 - Voici quelques technologies utilisées : Next.js, NestJS, React Native, Drizzle ORM, NeonDB.  
 - Contacte-moi via [chester-dev.com](https://chester-dev.com/) pour un aperçu ou une démo privée.
-
+</p>
 
 ---
 
